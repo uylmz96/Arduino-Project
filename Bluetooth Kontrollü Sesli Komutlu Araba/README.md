@@ -1,6 +1,11 @@
-@uylmz96
-Bluetooth V1.0
+Bluetooth V2.0
 
--Android uygulaması için play storeda link -> https://play.google.com/store/apps/details?id=com.giumig.apps.bluetoothserialmonitor
+-Sesli komutları için play storeda link -> https://play.google.com/store/apps/details?id=appinventor.ai_cempehlivan92.Arduino_Sesli_Kontrol
 
--Kumanda ile kontrol edilebiliyor.
+-Sesli kontrol için revize edildi.
+
+-Sesli komutlar google ile alınıyor ve text olarak kontrol ediliyor.
+
+Bluetooth V2.1
+
+-Komutlarda kelime ayıklayan fonksiyon yazıldı. (getValue)
