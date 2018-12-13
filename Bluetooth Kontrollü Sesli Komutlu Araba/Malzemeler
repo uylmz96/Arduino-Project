@@ -1,7 +1,5 @@
-Bitirme Projesi
--Gerekli Malzemeler
--Uzaktan kumandalı araba
--Breadboard
+-Uzaktan kumandalı araba (İçindekileri söküp bizim parçalarımız ile yeniden tasarlayacağız.)
+-Breadboard (Nano bunun üstüne takılacak ben yarım boy kullandım aracın içine sığdırmak için)
 -Arduino nano
 -HC-06 Bluetooth Alıcı
 -L298N Motor Sürücü
